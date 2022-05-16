@@ -34,5 +34,14 @@
       <description>Hi kids</description>
     </item>
     
+    <item>
+      <title>Photos</title>
+      <link>https://kahunakento.github.io/photos/</link>
+      <pubDate>Mon, 16 May 2022 10:59:07 +0200</pubDate>
+      
+      <guid>https://kahunakento.github.io/photos/</guid>
+      <description>Hi kids </description>
+    </item>
+    
   </channel>
 </rss>
