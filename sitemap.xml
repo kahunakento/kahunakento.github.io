@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kahunakento.github.io/posts/anothertest/</loc>
+    <lastmod>2022-05-16T13:09:20+02:00</lastmod>
+  </url><url>
     <loc>https://kahunakento.github.io/</loc>
-    <lastmod>2022-05-16T10:59:07+02:00</lastmod>
-  </url><url>
-    <loc>https://kahunakento.github.io/photos/my-first-photo/</loc>
-    <lastmod>2022-05-16T10:59:07+02:00</lastmod>
-  </url><url>
-    <loc>https://kahunakento.github.io/posts/my-first-post/</loc>
-    <lastmod>2022-05-16T10:59:07+02:00</lastmod>
-  </url><url>
-    <loc>https://kahunakento.github.io/photos/</loc>
-    <lastmod>2022-05-16T10:59:07+02:00</lastmod>
+    <lastmod>2022-05-16T13:09:20+02:00</lastmod>
   </url><url>
     <loc>https://kahunakento.github.io/posts/</loc>
+    <lastmod>2022-05-16T13:09:20+02:00</lastmod>
+  </url><url>
+    <loc>https://kahunakento.github.io/posts/test/</loc>
+    <lastmod>2022-05-16T12:32:16+02:00</lastmod>
+  </url><url>
+    <loc>https://kahunakento.github.io/posts/my-first-post/</loc>
     <lastmod>2022-05-16T10:59:07+02:00</lastmod>
   </url><url>
     <loc>https://kahunakento.github.io/categories/</loc>
